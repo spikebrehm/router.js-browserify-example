@@ -10,7 +10,7 @@
     "url": "git://github.com/spikebrehm/router.js-browserify-example.git"
   },
   "author": "",
-  "license": "BSD-2-Clause",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/spikebrehm/router.js-browserify-example/issues"
   },
