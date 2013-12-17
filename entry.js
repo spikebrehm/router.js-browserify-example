@@ -1,3 +1,7 @@
-var Router = require('router.js');
+var Router = require('router.js')['default'];
 
-new Router();
+var router = new Router();
+
+router.map(function(match) {
+  match('/index.html').to('home');
+});

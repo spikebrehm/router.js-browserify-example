@@ -1,2 +1,2 @@
 build:
-	./node_modules/.bin/browserify entry.js -o bundle.js
+	./node_modules/.bin/browserify entry.js -o bundle.js --debug
