@@ -1,0 +1,25 @@
+{
+  "name": "router.js-browserify-example",
+  "version": "0.0.0",
+  "description": "A repo for testing Router.js + Browserify.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/spikebrehm/router.js-browserify-example.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/spikebrehm/router.js-browserify-example/issues"
+  },
+  "homepage": "https://github.com/spikebrehm/router.js-browserify-example",
+  "dependencies": {
+    "router.js": "spikebrehm/router.js#prepare-for-npm"
+  },
+  "private": true,
+  "devDependencies": {
+    "browserify": "~3.4.0"
+  }
+}
